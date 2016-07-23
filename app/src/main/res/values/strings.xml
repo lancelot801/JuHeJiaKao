@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">聚合驾考</string>
+    <string name="item1">A选项</string>
+    <string name="item2">B选项</string>
+    <string name="item3">C选项</string>
+    <string name="item4">D选项</string>
+    <string name="answer">答案</string>
+    <string name="explains">解释</string>
+</resources>
